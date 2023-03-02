@@ -28,9 +28,9 @@
 
 ## Known Bugs
 
-_Eslint throws no-undef errors when linting jest test files _
+_Eslint throws no-undef errors when linting jest test files_
 
-_I fixed with this code in the .eslintrc file: "jest/gloabals": true _
+_I fixed with this code in the .eslintrc file: "jest/gloabals": true_
 
 _Also fixed by installing eslint-plugin-jest_
 
