@@ -25,6 +25,7 @@
 - _Run tests with Jest using $ npm run test_
 - _Change project name in all the necissary places_
 - _Change the package.json file to match your project_
+- _Change src files_
 
 ## Known Bugs
 
