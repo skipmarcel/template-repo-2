@@ -1,6 +1,6 @@
 # Template Repo For TDD with Jest
 
-#### This repository is a template to create a TDD development enviroment for any javaScript project.
+#### This repository is a template to create a TDD enviroment for any javaScript project.
 
 #### By Tyler Adams
 
